@@ -1,2 +1,4 @@
 ﻿  DICTIONARY.cpp
+C:\Users\Hoccku22\source\repos\DICTIONARY\DICTIONARY\DICTIONARY.cpp(46,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Hoccku22\source\repos\DICTIONARY\DICTIONARY\DICTIONARY.cpp(49,24): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
   DICTIONARY.vcxproj -> C:\Users\Hoccku22\source\repos\DICTIONARY\x64\Debug\DICTIONARY.exe
